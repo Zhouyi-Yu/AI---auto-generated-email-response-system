@@ -1,5 +1,7 @@
 # AI---auto-generated-email-response-system
 Master Branch: The older version(done by Sept 2024)
+Log:  <br />
+Since successfully set up the Azure, and gathered the sentiment design, it is time to send it to the OPEN AI!
 Main Branch: Updated version(Nov 2024)
 <br />
 <br />
@@ -17,4 +19,5 @@ Output: <br />
 Connected to IMAP server. <br />
 Logged in successfully. <br />
 Failed to select mailbox: [b'SELECT Unsafe Login. Please contact kefu@188.com for help'] <br />
+
 
