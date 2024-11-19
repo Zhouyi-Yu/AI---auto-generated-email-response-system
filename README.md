@@ -1,7 +1,7 @@
 # AI---auto-generated-email-response-system
 Master Branch: The older version(done by Sept 2024)
 Log:  <br />
-Since successfully set up the Azure, and gathered the sentiment design, it is time to send it to the OPEN AI!
+Since successfully set up the Azure, and gathered the sentiment design, it is time to send it to the OPEN AI! <br />
 Main Branch: Updated version(Nov 2024)
 <br />
 <br />
