@@ -11,7 +11,7 @@ Output: <br />
 Connected to IMAP server.  <br />
 IMAP Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'  <br />
 <br />
-As for the 163.com, I am able to turn on the IMAP restrictions, but the fetching process is still unsuccessful, and it is a common issue.<br />
+As for the 163.com, I am able to turn on the IMAP restrictions, but the fetching process is still unsuccessful, (and it seems like a common issue?)<br />
 <br />
 Output: <br />
 Connected to IMAP server. <br />
