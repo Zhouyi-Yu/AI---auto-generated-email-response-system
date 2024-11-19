@@ -7,7 +7,7 @@ Change: <br />
 Try to switch the mail server(i.e. Gmail --> 163.com) as the Gmail's safety restrictions  <br />
 Result: Still unsuccessful, but better. Gmail restricted the access fully and I cannot turn on the IMAP restriction(as a regular user) <br />
 <br />
-output: <br />
+Output: <br />
 Connected to IMAP server.  <br />
 IMAP Error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'  <br />
 <br />
