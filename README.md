@@ -6,5 +6,5 @@ If you could kindly take a moment to review the **UpdateLog.md**, here’s what 
 4. That’s it! You’ll now have an appropriate email ready to send. 
 
 WARNING:
-The OPEN-AI's key might update from time to time, so it will be the best if the user can have their own key.
+The OPEN-AI's key might update from time to time, so it will be the best if the user can have their own key. <br />
 Go to(https://platform.openai.com) --> Profile -->left side navigation bar --> scroll to API keys(under PPOJECT)
