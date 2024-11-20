@@ -1,6 +1,6 @@
 # AI---auto-generated-email-response-system
-if you may, please read the UpdateLog.md <br />
-1. Please go to the main branch <br />
-2. Run the sentiment_detecion.py <br />
-3. put the desirable email in there, wait for the respond <br />
-4. Copy that! and now you have an appropriate email to send!
+If you could kindly take a moment to review the **UpdateLog.md**, here’s what to do:  
+1. Navigate to the **main branch**.  <br />
+2. Run the **sentiment_detection.py** script.  <br />
+3. Enter the desired email, and wait for the response.  <br />
+4. That’s it! You’ll now have an appropriate email ready to send. 
