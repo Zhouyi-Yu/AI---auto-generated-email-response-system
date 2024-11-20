@@ -18,3 +18,10 @@ Output: <br />
 _Connected to IMAP server. <br />
 Logged in successfully. <br />
 Failed to select mailbox: [b'SELECT Unsafe Login. Please contact kefu@188.com for help'] <br />_
+
+As well, realized that the labels of the classification is unnessary and making the program more problematic<br />
+as if the label doesn't exist, the program will spend almost forever to proceed and affecting the other modules<br />
+eventually cause errors. <br />
+
+I still keep the module and the original usage as in comments(partially, as one is a part of a string)<br />
+to let the fellow developer see _why it was there_<br />
