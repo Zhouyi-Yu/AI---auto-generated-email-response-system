@@ -19,7 +19,7 @@ _Connected to IMAP server. <br />
 Logged in successfully. <br />
 Failed to select mailbox: [b'SELECT Unsafe Login. Please contact kefu@188.com for help'] <br />_
 
-As well, realized that the labels of the classification is unnessary and making the program more problematic<br />
+As well, realized that the labels of the classification is unnessary(Since the openAI module has that function) and making the program more problematic<br />
 as if the label doesn't exist, the program will spend almost forever on the natrual language process and stopping the other modules<br />
 eventually cause errors. <br />
 
